@@ -1,5 +1,6 @@
-Migrasi Database dan Seeding
+**Migrasi Database dan Seeding**
 php artisan migrate --seed
+php artisan db:seeder
 
-User admin
+**User admin**
 email : admin@admin.com password : admin123
