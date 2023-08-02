@@ -1,6 +1,7 @@
 # **Migrasi Database dan Seeding**
 
 php artisan migrate --seed
+
 php artisan db:seeder
 
 # **User admin**
